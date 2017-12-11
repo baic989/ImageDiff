@@ -3,7 +3,7 @@
 
 ## Motivation
 A simple MacOS utility app for image diff. It iterates throught the pixels and marks which are different.
-The idea came to mind after watching a talk about screenshot testing by Brandon Williams. The purpose is to have an image
+The idea came to mind after watching a talk about screenshot testing by [Brandon Williams](https://github.com/mbrandonw). The purpose is to have an image
 of the view state to testify of how it looked in a particular version or to quickly see if someone made some UI changes
 which got lost in some merge or we just aren't aware of them.
 He mentioned using some propriatary software which wasn't cheap for this one functionality, so here it is...
